@@ -1,0 +1,161 @@
+ 1  ls
+    2  pwd
+    3  mkdir commands
+    4  ls
+    5  cd commands
+    6  pwd
+    7  vi linux_commands
+    8  ls
+    9  cd ..
+   10  ls
+   11  git init
+   12  cd commands
+   13  git init
+   14  ll
+   15  git add .
+   16  yum.sudo yum install git -y 
+   17  yum. sudo yum install git -y 
+   18  yum . sudo yum install git -y 
+   19  sudo yum update -y
+   20  sudo yum install git -y
+   21  git init
+   22  git status
+   23  git add .
+   24  git commit -m "first commit"
+   25  git status
+   26  git branch
+   27  git branch tesla
+   28  git branch
+   29  git checkout tesla
+   30  git branch
+   31  git log --oneline
+   32  git clone https://github.com/kolluri7782/WeatherApp.git
+   33  ls
+   34  git status
+   35  git add .
+   36  git commit -m "second commit"
+   37  cd WeatherApp
+   38  ls
+   39  git status
+   40  git remote add origin https://github.com/shekharb23/weatherapp.git
+   41  git branch
+   42  git push origin tesla
+   43  git checkout tesla
+   44  cd ..
+   45  ls
+   46  git branch
+   47  git remote add origin https://github.com/shekharb23/weatherapp.git
+   48  git push origin tesla
+   49  git remote remove WeatherApp
+   50  git remote -v
+   51  git remote remove weatherapp
+   52  git remote remove origin weatherapp
+   53  git remote remove weatherapp.git
+   54  ls
+   55  git log --oneline
+   56  git checkout master
+   57  git log --oneline
+   58  ls
+   59  git branch
+   60  git checkout tesla
+   61  git branch
+   62  ls
+   63  git status
+   64  cd WeatherApp
+   65  ls
+   66  gitinit
+   67  git init
+   68  git status
+   69  git add .
+   70  git commit -m "third commit"
+   71  git remote add origin https://github.com/shekharb23/weatherapp.git
+   72  git remote -v
+   73  git remote remove origin
+   74  git remote -v
+   75  git remote add origin https://github.com/shekharb23/weatherapp.git
+   76  git push origin tesla
+   77  git branch
+   78  git checkout tesla
+   79  git push origin main
+   80  ls
+   81  cd ..
+   82  ls
+   83  git branch
+   84  mkdir linux
+   85  ls
+   86  mv linux_commands linux
+   87  ls
+   88  cd linux
+   89  ls
+   90  git push origin tesla
+   91  ls
+   92  cd ..
+   93  ls
+   94  cd ..
+   95  ls
+   96  cd commands
+   97  ls
+   98  cd ..
+   99  ls
+  100  mkdir gitcommands
+  101  ls
+  102  cd gitcommands
+  103  ls
+  104  vi gitpractice
+  105  ls
+  106  git status
+  107  git init
+  108  git add .
+  109  git commit -m "third commit"
+  110  git branch
+  111  git branch bita
+  112  git checkout bita
+  113  git branch
+  114  git push origin bita
+  115  ls
+  116  ll
+  117  ls -al
+  118  git remote -v
+  119  git remote add origin https://github.com/shekharb23/weatherapp.git
+  120  git push origin bita
+  121  ls
+  122  clear
+  123  pwd
+  124  cd ../ ../
+  125  cd ..
+  126  ls
+  127  git branch
+  128  history
+  129  clear
+  130  ls
+  131  git clone https://github.com/kolluri7782/WeatherApp.git
+  132  mkdir weather app
+  133  cd ec2-user
+  134  ls
+  135  mkdir weatherapp
+  136  la
+  137  ls
+  138  cd weatherapp
+  139  git clone https://github.com/kolluri7782/WeatherApp.git
+  140  ls
+  141  cd WeatherApp
+  142  ls
+  143  git init
+  144  git add .
+  145  git commit -m "commit1"
+  146  git branch
+  147  git remote add originhttps://github.com/shekharb23/weatherapp.git
+  148  git push origin main
+  149  la
+  150  ls
+  151  git remote add origin https://github.com/shekharb23/weatherapp.git
+  152  git remote -v
+  153  git remote remove origin
+  154  git remote add origin https://github.com/shekharb23/weatherapp.git
+  155  git push origin main
+  156  ls
+  157  cd ..
+  158  ls
+  159  mkdir gitlinux
+  160  vi commands
+  161  history
